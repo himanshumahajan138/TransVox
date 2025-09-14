@@ -1,0 +1,11 @@
+fastapi
+loguru
+pydantic
+pandas
+numpy
+requests
+uvicorn
+wheel
+pysrt
+streamlit
+python-dotenv

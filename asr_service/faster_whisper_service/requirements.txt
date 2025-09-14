@@ -1,0 +1,7 @@
+fastapi
+loguru
+uvicorn
+faster-whisper
+torch
+pydantic
+ctranslate2==4.4.0

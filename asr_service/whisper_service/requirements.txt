@@ -1,0 +1,6 @@
+fastapi
+loguru
+uvicorn
+openai-whisper
+torch
+pydantic

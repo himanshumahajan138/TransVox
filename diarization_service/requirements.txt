@@ -1,0 +1,6 @@
+fastapi
+loguru
+uvicorn
+pyannote.audio
+torch
+pydantic

@@ -1,0 +1,5 @@
+fastapi
+loguru
+silero-vad
+uvicorn
+pydantic

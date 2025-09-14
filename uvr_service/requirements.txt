@@ -1,0 +1,5 @@
+fastapi
+loguru
+audio-separator[gpu]
+uvicorn
+pydantic
